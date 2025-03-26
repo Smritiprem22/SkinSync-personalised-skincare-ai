@@ -1,0 +1,29 @@
+Ingredient,Function,Acne Rating,Irritant Rating,Safety Rating
+Butyl Stearate,"Solvent, Fragrance, Synthetic ester, Skin conditioning, Emollient",3-4,0,1
+Cocoa Butter,"Pigment, Skin conditioning, Plant extract, Emollient",4,0,1
+Corn Oil,"Solvent, Antistatic, Skin conditioning, Emollient, Plant extract, Emulsifier",3,0,1
+Decyl Oleate,"Solvent, Synthetic ester, Emollient",3,0,1
+Isopropyl Isostearate,"Solvent, Synthetic ester, Skin conditioning, Emollient",5,0,1
+Isopropyl Myristate,"Solvent, Synthetic ester",5,3,1
+Isostearyl Neopentanoate,"Solvent, Synthetic ester, Skin conditioning, Emollient",3,3,1
+Isopropyl Palmitate,"Solvent, Fragrance, Synthetic ester, Moisturizer",4,1,1
+Isocetyl Stearate,"Solvent, Synthetic ester",5,0,1
+Lanolin,"Surfactant, Antistatic, Skin conditioning, Emollient",1-2,,1
+Laureth-4,"Surfactant, Antistatic, Emulsifier",5,4,1-3
+Linseed Oil,"Fragrance, Skin conditioning, Emollient",5,,1
+Mineral Oil,"Solvent, Antistatic",0,0,1-4
+Myristyl Lactate,"Solvent, Synthetic ester, Skin conditioning, Emollient",5,2,1-4
+Myristyl Myristate,"Synthetic ester, Skin conditioning, Emollient",5,2,2-3
+Methyl Oleate,"Emollient",,,
+Oleic Acid,"Emollient, Emulsifier",5,,1
+Oleyl Alcohol,"Surfactant, Viscosity Control, Emulsifier",4,2,1
+Olive Oil,"Solvent, Fragrance, Emollient, Plant extract",2,0,1
+Octyl Palmitate,"Solvent, Fragrance, Synthetic ester, Emollient",4,1,1
+Octyl Stearate,"Solvent, Synthetic ester",5,5,
+Peanut Oil,"Solvent, Skin conditioning, Emollient, Plant extract",2,0-2,1-2
+Petrolatum,"Antistatic, Emollient",2,0,1-4
+Propylene Glycol Stearate,"Surfactant, Emollient, Emulsifier",,,1
+Safflower Oil,"Fragrance, Skin conditioning",0,0,1
+Sesame Oil,"Fragrance, Skin conditioning, Emollient, Plant extract",2,0,1
+Sodium Lauryl Sulfate,"Surfactant, Emulsifier",5,2,1-2
+Stearic Acid,"Surfactant, Viscosity Control, Emulsifier",2,0,1
